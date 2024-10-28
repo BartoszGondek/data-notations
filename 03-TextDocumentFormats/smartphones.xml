@@ -9,7 +9,7 @@
         </specs>
         <price currency="USD">799</price>
     </smartphone>
-    <smartphone brand="Iphone" model="Galaxy S23" releaseYear="2021">
+    <smartphone brand="Iphone" model="SE 2022" releaseYear="2021">
         <specs>
             <screenSize unit="inch">6.0</screenSize>
             <batteryCapacity unit= "mAh">4000</batteryCapacity>
