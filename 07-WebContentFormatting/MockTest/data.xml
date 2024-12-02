@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<InformationTechnology>
+    <Field name="ArtificialIntelligence">
+        <Description>Artificial Intelligence (AI) involves creating systems capable of performing tasks that require human intelligence.</Description>
+        <Applications>
+            <Application>Healthcare</Application>
+            <Application>Finance</Application>
+            <Application>Transportation</Application>
+        </Applications>
+    </Field>
+    <Field name="Cybersecurity">
+        <Description>Cybersecurity is focused on protecting systems, networks, and programs from digital attacks.</Description>
+        <Applications>
+            <Application>Data Protection</Application>
+            <Application>Network Security</Application>
+            <Application>Endpoint Protection</Application>
+        </Applications>
+    </Field>
+    <Field name="CloudComputing">
+        <Description>Cloud computing delivers computing services over the internet, enabling on-demand access to resources.</Description>
+        <Applications>
+            <Application>Data Storage</Application>
+            <Application>Software as a Service</Application>
+            <Application>Infrastructure as a Service</Application>
+        </Applications>
+    </Field>
+    <Field name="DataScience">
+        <Description>Data Science combines statistical methods, programming, and domain expertise to extract insights from data.</Description>
+        <Applications>
+            <Application>Predictive Analytics</Application>
+            <Application>Business Intelligence</Application>
+            <Application>Machine Learning</Application>
+        </Applications>
+    </Field>
+</InformationTechnology>

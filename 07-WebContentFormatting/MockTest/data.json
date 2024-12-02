@@ -1,0 +1,24 @@
+{
+    "InformationTechnology": [
+        {
+            "Field": "Artificial Intelligence",
+            "Description": "Artificial Intelligence (AI) involves creating systems capable of performing tasks that require human intelligence.",
+            "Applications": ["Healthcare", "Finance", "Transportation"]
+        },
+        {
+            "Field": "Cybersecurity",
+            "Description": "Cybersecurity is focused on protecting systems, networks, and programs from digital attacks.",
+            "Applications": ["Data Protection", "Network Security", "Endpoint Protection"]
+        },
+        {
+            "Field": "Cloud Computing",
+            "Description": "Cloud computing delivers computing services over the internet, enabling on-demand access to resources.",
+            "Applications": ["Data Storage", "Software as a Service", "Infrastructure as a Service"]
+        },
+        {
+            "Field": "Data Science",
+            "Description": "Data Science combines statistical methods, programming, and domain expertise to extract insights from data.",
+            "Applications": ["Predictive Analytics", "Business Intelligence", "Machine Learning"]
+        }
+    ]
+}
